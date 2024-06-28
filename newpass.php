@@ -15,7 +15,7 @@
             <p>Silahkan masukkan email dan password</p>
             <div class="form-login">
                 <label for="">Email</label>
-                <input type="email" name="username" placeholder="email" value="<?= $_GET['email']; ?>">
+                <input type="email" name="email" placeholder="email" value="<?= $_GET['email']; ?>">
             </div>
             <div class="form-login">
                 <label for="">New Password</label>
