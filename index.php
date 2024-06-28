@@ -12,7 +12,7 @@
     <div id="form">
         <form action="login.php" method="post">
             <h4>Selamat Datang</h4>
-            <p>Silahkan masukkan email dan password</p>
+            <p>Masukan Email & Password</p>
             <div class="form-login">
                 <label for="">Email</label>
                 <input type="text" name="username" placeholder="masukkan email">
