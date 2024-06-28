@@ -1,7 +1,7 @@
 <?php
 
 $server = 'localhost';
-$database = 'dbsekolah';
+$database = 'db_sct';
 $username = 'root';
 $password = '';
 
